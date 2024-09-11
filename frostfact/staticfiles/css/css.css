@@ -1,0 +1,33 @@
+/* custom_grappelli.css */
+
+/* Change the background color of the sidebar */
+#grp-nav-sidebar {
+    background-color: #343a40;
+}
+
+/* Change the color of the links in the sidebar */
+#grp-nav-sidebar a {
+    color: #f8f9fa;
+}
+
+/* Change the header background color */
+#grp-header {
+    background-color: #007bff;
+}
+
+/* Change the header text color */
+#grp-header h1, #grp-header a {
+    color: #ffffff;
+}
+
+/* Change the button colors */
+.grp-button {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #ffffff;
+}
+
+.grp-button:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
